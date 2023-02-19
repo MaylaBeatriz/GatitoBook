@@ -18,7 +18,7 @@ import { FormsModule } from '@angular/forms';
     FormsModule
   ],
   exports: [
-    HomeComponent
+    
   ]
 })
 export class HomeModule { }
